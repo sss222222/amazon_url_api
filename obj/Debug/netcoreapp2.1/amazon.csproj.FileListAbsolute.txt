@@ -1,0 +1,3 @@
+/Users/satosato/Documents/apis/amazon/obj/Debug/netcoreapp2.1/amazon.csprojAssemblyReference.cache
+/Users/satosato/Documents/apis/amazon/obj/Debug/netcoreapp2.1/amazon.AssemblyInfoInputs.cache
+/Users/satosato/Documents/apis/amazon/obj/Debug/netcoreapp2.1/amazon.AssemblyInfo.cs
